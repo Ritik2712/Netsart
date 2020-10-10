@@ -9,7 +9,9 @@ export default class Section2 extends Component {
           RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF
           POWER FOR THE NATION.
         </p>
-        <img src="./asserts/3.png" className="prts" alt="" />
+        <div className="prtsimg">
+          <img src="./asserts/3.png" className="prts" alt="" />
+        </div>
         <p className="par">
           Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -
           Solar Systems - Motors
