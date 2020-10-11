@@ -23,6 +23,8 @@ export default class Section3 extends Component {
           FIRE FIGHTING <span className="red"> | </span>AGRICULTURE &
           RESIDENTIAL
         </p>
+        <i class="fa fa-facebook"></i>
+
         <Footer />
       </section>
     );
